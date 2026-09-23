@@ -1,5 +1,7 @@
 # Simulador de Portafolio – Frontend
 
+🔗 **Demo en producción:** https://frontend-two-lyart-pm1lgeulzd.vercel.app
+
 SPA construida con **React + Vite + TailwindCSS** que simula el portafolio de inversiones de un cliente: muestra una tabla con las inversiones (activo, tipo, monto, rentabilidad, fecha) y permite agregar nuevas inversiones desde un formulario. Todo el estado se maneja en memoria con `useState` (no hay backend real conectado).
 
 ## Stack

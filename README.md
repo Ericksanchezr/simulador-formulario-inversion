@@ -1,5 +1,8 @@
 # Prueba Técnica – Desarrollador Full Stack (Sector Financiero)
 
+🔗 **Repositorio:** https://github.com/Ericksanchezr/simulador-formulario-inversion
+🔗 **Demo frontend (Vercel):** https://frontend-two-lyart-pm1lgeulzd.vercel.app
+
 Este repositorio contiene la resolución de los dos ejercicios de la prueba técnica:
 
 - [`frontend/`](./frontend) — **Ejercicio 1**: Simulador de Portafolio (React + Vite + Tailwind).

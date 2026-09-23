@@ -1,4 +1,4 @@
-# Prueba Técnica – Desarrollador Full Stack (Sector Financiero)
+# Desarrollador Full Stack 
 
 🔗 **Repositorio:** https://github.com/Ericksanchezr/simulador-formulario-inversion
 🔗 **Demo frontend (Vercel):** https://frontend-two-lyart-pm1lgeulzd.vercel.app

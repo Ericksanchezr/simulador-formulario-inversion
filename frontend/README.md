@@ -47,6 +47,9 @@ npm run preview   # sirve el build localmente para verificarlo
 
 ## Despliegue en Vercel
 
+Este proyecto está conectado a Vercel vía Git: cada `git push` a `main` dispara un
+deploy automático a producción (Root Directory configurado en `frontend`).
+
 ### Opción A — Dashboard de Vercel (recomendado)
 
 1. Sube este repositorio a GitHub (ver README raíz del proyecto).
